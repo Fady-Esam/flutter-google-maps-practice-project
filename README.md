@@ -6,13 +6,13 @@ A simple, clean, and structured practice and learning project integrating **Goog
 
 ## 🎯 Key Highlights
 
-- 🗺️ **Seamless Google Maps integration** for displaying interactive, embedded maps  
-- 📍 **Custom Map Markers** styled with personalized icons and positioned at precise coordinates  
-- 🎥 **Advanced Camera Controls** including zooming, tilting, and smooth animated map movement  
-- 📌 **Interactive Markers** supporting tap actions, info windows, and multiple marker display  
-- 🧭 **User Location Access** with real-time positioning and permission handling  
-- 🔁 **Live Map Updates** triggered by user interaction such as camera shifts or marker changes  
-- 🛠️ **Scalable and Organized Codebase** with a clean separation between screens, logic, and utilities 
+- 🗺️ Seamless Google Maps integration using the `google_maps_flutter` plugin for interactive, embedded maps  
+- 📍 Custom Map Markers with personalized icons and styling placed at specific coordinates  
+- 🎥 Advanced Camera Controls including zoom, tilt, and animated camera movement via `CameraPosition` and `GoogleMapController`  
+- 📌 Interactive Markers** with tap detection, info windows, and support for multiple markers  
+- 🧭 Real-Time User Location Access and permission handling using the `location` package  
+- 🔁 Dynamic Map Updates in response to user interactions (e.g., marker changes, camera shifts)  
+- 🛠️ Clean and Scalable Code Structure with separated logic layers (e.g., screens, controllers, utilities) for maintainability  
 
 ---
 
