@@ -1,4 +1,4 @@
-# 🗺️ Flutter Google Maps Demo
+# 🗺️ Flutter Google Maps Practice Project
 
 A simple, clean, and structured practice and learning project integrating **Google Maps** in a **Flutter** app.  
 *Currently under active development and debugging.*
