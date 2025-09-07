@@ -1,18 +1,29 @@
 # 🗺️ Flutter Google Maps Demo
 
 A simple, clean, and structured practice and learning project integrating **Google Maps** in a **Flutter** app.  
+*Currently under active development and debugging.*
 
 ---
 
-## 🎯 Key Highlights
+## 🚧 Development Status
+
+- ⚠️ This project is a **work in progress**  
+- 🚫 Features and UI are **not complete**  
+- 🐞 Expect bugs, incomplete functionality, and breaking changes  
+- 🔄 Updates and improvements coming soon
+- 🔧 API integration in testing phase
+
+❗ *This README will be updated as the project progresses.*
+
+---
+
+## 🎯 Key Highlights (Implemented So Far)
 
 - 🗺️ Seamless Google Maps integration using the `google_maps_flutter` plugin for interactive, embedded maps  
 - 📍 Custom Map Markers with personalized icons and styling placed at specific coordinates  
 - 🎥 Advanced Camera Controls including zoom, tilt, and animated camera movement via `CameraPosition` and `GoogleMapController`  
-- 📌 Interactive Markers** with tap detection, info windows, and support for multiple markers  
 - 🧭 Real-Time User Location Access and permission handling using the `location` package  
 - 🔁 Dynamic Map Updates in response to user interactions (e.g., marker changes, camera shifts)  
-- 🛠️ Clean and Scalable Code Structure with separated logic layers (e.g., screens, controllers, utilities) for maintainability  
 
 ---
 
@@ -25,7 +36,7 @@ A simple, clean, and structured practice and learning project integrating **Goog
 
 ---
 
-## 📦 Packages Used
+## 📦 Packages Used (Implemented So Far)
 
 - 🗺️ `google_maps_flutter`
 - 📍 `location` 
