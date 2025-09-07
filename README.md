@@ -11,7 +11,6 @@ A simple, clean, and structured practice and learning project integrating **Goog
 - 🚫 Features and UI are **not complete**  
 - 🐞 Expect bugs, incomplete functionality, and breaking changes  
 - 🔄 Updates and improvements coming soon
-- 🔧 API integration in testing phase
 
 ❗ *This README will be updated as the project progresses.*
 
